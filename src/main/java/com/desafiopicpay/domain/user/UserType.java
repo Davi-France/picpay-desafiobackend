@@ -4,5 +4,5 @@ import jakarta.persistence.Column;
 
 public enum UserType {
     COMMON,
-    MERCHAN
+    MERCHANT
 }
